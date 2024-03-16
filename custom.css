@@ -19,3 +19,9 @@ h3
 {
 	background-color: lightgreen;
 }
+
+p
+{
+	font-weight: bold;
+	font-style: italic;
+}
